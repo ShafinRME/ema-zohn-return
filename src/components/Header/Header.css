@@ -1,0 +1,21 @@
+.header{
+    background-color: rgba(78, 5, 5, 0.774);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+.navigation-bar a{
+    margin: 10px;
+    color: aquamarine;
+    font-size: 20px;
+    text-decoration: none;
+}
+.navigation-bar a:hover{
+    background-color: rgba(36, 5, 18, 0.979);
+    border-radius: 10px;
+    border: 10px solid rgba(36, 5, 18, 0.979);
+}
