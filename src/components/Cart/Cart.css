@@ -1,0 +1,31 @@
+.cart{
+    position: sticky;
+    top: 0;
+    margin-left: 25px;
+}
+.button-1{
+    background-color: rgba(196, 110, 13, 0.671);
+    width: 90%;
+    height: 48px;
+    margin-bottom: 8px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button-2{
+    background-color: rgba(121, 11, 111, 0.76);
+    width: 90%;
+    height: 48px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.cart-clear{
+    margin-right: 10px;
+}
+.cart-review{
+    margin-right: 10px;
+}
